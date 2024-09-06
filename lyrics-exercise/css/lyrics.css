@@ -26,16 +26,14 @@ p{
 body {
     background-image: url("file.png");
     background-repeat: no-repeat;
-    background-size: 1000px;
-    background-position-x: -50%;
-    background-position-y: 115%;
+    background-size: 700px;
+    background-position-x: -400%;
+    background-position-y: 100%;
     background-attachment:scroll;
     background-color: rgb(167, 205, 210);
     
 }
 .coffee{
-    /*object-position: right;
-    transform: scale(0.2);*/
     position: absolute;
     right: -800px;
 }
