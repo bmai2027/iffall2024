@@ -1,6 +1,6 @@
-.portrait{
+.portrait {
     float: left;
-    margin: 2rem;
+    margin: 0 2rem 2rem 0;
 }
 .instructions{
     clear:both;
