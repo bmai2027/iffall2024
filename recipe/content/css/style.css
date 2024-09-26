@@ -1,0 +1,44 @@
+html{
+    font-family: 'Montserrat Alternates';
+    margin: 100px;
+    background-color: rgb(246, 246, 214);  
+}
+.header{
+    text-align: center;
+}
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .image-container img {
+    width: calc(33.33% - 10px); 
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+h1{
+    text-align: center;
+}
+h2{
+    text-align: Left;
+}
+.by{
+    text-align: center;
+    font-weight: lighter;
+}
+.Ingredients{
+    border: 3px;
+    border-spacing: 100px 1rem;
+    border-style: solid;
+    font-size:12px;
+    border-radius: 10px;
+}
+.tarts{
+    border: 3px;
+    border-spacing: 100px 1rem;
+    border-style: solid;
+    font-size:12px;
+    border-radius: 10px;
+}
