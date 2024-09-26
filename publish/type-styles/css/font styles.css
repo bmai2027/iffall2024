@@ -1,0 +1,113 @@
+html{
+    color:rgb(0, 0, 0);
+    font-family: 'Handjet';
+    font-size: 30pt;
+    margin: 5%;
+    margin-top: 1%;
+    background-color: rgb(224, 237, 255);
+}
+.h1{
+    font-size: 60pt;
+}
+h2{
+    font-size:20pt;
+}
+.header{
+    color: rgb(128, 128, 181);
+}
+.regular{
+    line-height: 0px;
+    font-size: 20pt;
+    color: rgb(128, 128, 181);
+}
+.semibold{
+    line-height: 0px;
+    font-size: 20pt;
+    color: rgb(128, 128, 181);
+}
+.semibolds{
+    font-weight: 600;
+}
+.bold{
+    line-height: 0px;
+    font-size: 20pt;
+    color: rgb(128, 128, 181);
+}
+.bolds{
+    font-weight: bold;
+}
+.normal{
+    line-height: 0px;
+    font-size: 20pt;
+    color:rgb(128,128,181)
+}
+.small{
+    line-height: 0px;
+    font-size: 20pt;
+    color:rgb(128,128,181)
+}
+.smalls{
+    letter-spacing: .3em;
+}
+.big{
+    line-height: 0px;
+    font-size: 20pt;
+    color:rgb(128,128,181)
+}
+
+.biggest{
+    letter-spacing: -.06em;
+}
+.none{
+    line-height: 0px;
+    font-size: 20pt;
+    color:rgb(128,128,181)
+}
+.underline{
+    line-height: 0px;
+    font-size: 20pt;
+    color:rgb(128,128,181)
+}
+.underlines{
+    text-decoration: underline;
+}
+.line-through{
+    line-height: 0px;
+    font-size: 20pt;
+    color:rgb(128,128,181)
+}
+.line-throughs{
+    text-decoration: line-through;
+}
+.overline{
+    line-height: 0px;
+    font-size: 20pt;
+    color:rgb(128,128,181)
+}
+.overlines{
+    text-decoration: overline;
+}
+.uppercase{
+    line-height: 0px;
+    font-size: 20pt;
+    color:rgb(128,128,181)
+}
+.uppercases{
+text-transform: uppercase;
+}
+.lowercase{
+    line-height: 0px;
+    font-size: 20pt;
+    color:rgb(128,128,181)
+}
+.lowercases{
+    text-transform: lowercase;
+}
+.capitalize{
+    line-height: 0px;
+    font-size: 20pt;
+    color:rgb(128,128,181)
+}
+.capitalizes{
+    text-decoration: capitalize;
+}

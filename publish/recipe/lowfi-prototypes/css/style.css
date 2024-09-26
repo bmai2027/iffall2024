@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+.image-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.image-container img {
+    width: 95%;
+    height: auto;
+}
+.image-container2{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+.image-container2 img {
+    width: 95%;
+    height: auto;
+}
+h2{
+    text-align: center;
+}

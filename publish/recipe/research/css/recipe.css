@@ -1,0 +1,36 @@
+html{
+    font-family: 'Montserrat Alternates';
+    margin: 100px;
+    background-color: rgb(246, 246, 214);
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.by{
+    text-align: center;
+    font-weight: lighter;
+}
+.Ingredients{
+    border: 3px;
+    border-spacing: 100px 1rem;
+    border-style: solid;
+    font-size:12px;
+    border-radius: 10px;
+}
+.tarts{
+    border: 3px;
+    border-spacing: 100px 1rem;
+    border-style: solid;
+    font-size:12px;
+    border-radius: 10px;
+}
