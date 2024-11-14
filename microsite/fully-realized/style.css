@@ -403,29 +403,35 @@ a.btn{
         height: 1000px;
     }
     .container2 img{
-        margin-top: -700px;
+        margin-top: -400px;
     }
     .textblock .text{
         font-size: 10px;
+    }
+    .textblock .Title2{
+        text-align: center;
+        margin-left: 50%;
+        margin-right: auto;
     }
 
 }
 @media(max-width:1000px){
     .container2 img{
-        margin-top: -800px;
+        margin-top: -400px;
         height: 300px;
         width: auto;
     }
     .textblock .Title2{
-        font-size: 30px;
+        font-size: 40px;
         text-align: center;
-        margin-left: 30%;
+        margin-left: 50%;
         margin-right: auto;
     }
     .textbox .Title3{
         padding-bottom: 5px;
-        font-size: 30px;
+        font-size: 40px;
         text-align: center; 
+        margin-left: 50%;
     }
     .container3 img{
         display: none;
