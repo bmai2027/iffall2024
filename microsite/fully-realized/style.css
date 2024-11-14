@@ -561,6 +561,7 @@ a.btn{
     margin-bottom: 30px;
     font-size: 20px;
 }
+
 @media(max-width:1500px){
     .hands {
         font-size: 20px;
